@@ -102,12 +102,13 @@ li {
 
 .tete {
     border-radius: 15px 15px 0 0;
+    max-width: 250px;
 }
 
 .text {
     height: 45vh;
     border-radius: 0 0 15px 15px;
-    color: #000000;
+    color: #000;
 }
 
 .titre3 {
