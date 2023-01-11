@@ -102,8 +102,6 @@ li {
 
 .tete {
     border-radius: 15px 15px 0 0;
-    max-height: 250px;
-    object-fit: contain;
 }
 
 .text {
